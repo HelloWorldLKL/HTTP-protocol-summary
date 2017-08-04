@@ -1,4 +1,3 @@
-# First Chapter
+# 概述
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
-
+此书为本人自我总结使用，是在针对 HTTP 协议进行深入理解时的思考成果，如果您无意中发现了本书并且发现了其中的纰漏，那么欢迎您 folk 它，并为我指正，谢谢
