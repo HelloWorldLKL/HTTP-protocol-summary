@@ -84,6 +84,8 @@
 
 ## 参考资料
 
-+ [302转向与网址劫持]: https://www.seozac.com/seo-tips/302-redirect-page-hijacking/
++ [302转向与网址劫持](https://www.seozac.com/seo-tips/302-redirect-page-hijacking/)
 
-+ [什么是HTTP隧道，怎么理解HTTP隧道呢？]: https://www.zhihu.com/question/21955083	"andwxh的回答"
+
++ [什么是HTTP隧道，怎么理解HTTP隧道呢？](https://www.zhihu.com/question/21955083)
+
