@@ -2,7 +2,7 @@
 
 1. 代理服务器的机制是什么？CONNECT 方法是必须的吗？VPN 是怎么回事？Lantern 是什么情况？和 SSR 之类的有什么区别？
 
-   >![Lantern](./assets/Lantern.png)
+   >![Lantern](../assets/Lantern.png)
 
 2. GFW 使用的技术和大致原理
 

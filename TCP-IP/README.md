@@ -47,4 +47,4 @@
 通过 域名 查找 IP地址，或者通过 IP地址 反查 域名
 
 ## 大致流程
-![](./assets/TCP:IP.jpg)
+![](../assets/TCP:IP.jpg)
