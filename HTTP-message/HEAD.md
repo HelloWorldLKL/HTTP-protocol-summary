@@ -34,7 +34,7 @@
 - Range 部分请求的字节范围
 - Refer 发起请求的URI
 - User-Agent 将浏览器和用户代理等信息传给服务器
-- TE
+- TE 传输编码的优先级
 
 ## 响应首部字段
 
@@ -45,7 +45,7 @@
 - Proxy-Authorization 告知客户端代理服务器要求的认证信息
 - Retry-After 告知客户端因该多久之后重新发送请求（搭配 503 或 3XX）
 - Server 告知客户端，服务器上的应用程序信息
-- Vary 
+- Vary 代理服务器缓存的管理信息
 - WWW-Authenticate HTTP认证
 
 ## 实体首部字段
@@ -69,7 +69,7 @@
   - 名称和值 如 NAME = Value **（必须项）**
   - expires 指定 Cookie 有效期，忽略此属性时 Cookie 只存在与维持 Session 的时间段内
   - path 将服务器上的文件目录作为 Cookie 的适用对象
-  - domain 作为 Cookkie 适用对象的域名
+  - domain 作为 Cookie 适用对象的域名
   - Secure 限制 HTTPS 时才可以发送 Cookie
   - HttpOnly 防止 JavaScript 获取 Cookie
 
@@ -80,7 +80,7 @@
 ## 其他
 
 - 请求
-  - DNT 拒绝个人信息被追踪，0 同意，1 拒绝
+  - DNT*(Do Not Trace)* 拒绝个人信息被追踪，0 同意，1 拒绝
 - 响应
   - X-Frame-Options 控制网站内容在其他页面 Frame 标签内的显示问题，DENY 拒绝，SAMEORIGIN 同源
   - X-XSS-Protection 防护 XSS 攻击，0 关闭，1 开启

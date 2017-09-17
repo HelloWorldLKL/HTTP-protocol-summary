@@ -1,6 +1,6 @@
 # HTTPS
 
-HTTPS 并非新协议，实际上就是 HTTP 通信接口采用 SSL 和 TLS 协议代替而已
+HTTPS 并非新协议，实际上就是 HTTP 通信接口采用 SSL 或 TLS 协议代替而已
 
 ![HTTPS](../assets/HTTPS.png)
 
