@@ -55,5 +55,5 @@ HTTP/1.1请求的大小正变得越来越大，HTTPS和SPDY的压缩机制被发
 
 ## 参考资料
 
-[http2详解]: https://www.gitbook.com/book/ye11ow/http2-explained
-[知乎-HTTP/2.0 相比1.0有哪些重大改进？]: https://www.zhihu.com/question/34074946
+- [http2详解](https://www.gitbook.com/book/ye11ow/http2-explained)
+- [知乎-HTTP/2.0 相比1.0有哪些重大改进？](https://www.zhihu.com/question/34074946)
